@@ -1,3 +1,2 @@
-# test-vvcstudent
-test-vvcstudent created by GitHub Classroom
-This is an initial commit
+# My Awesome Project
+This project will create world peace,
