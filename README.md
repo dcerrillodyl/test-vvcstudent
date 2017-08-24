@@ -1,2 +1,2 @@
-# My Awesome Project
+# Test Project
 This project will create world peace,
